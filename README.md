@@ -1,5 +1,19 @@
 # Rdemo1
-to learn github
-hello world!
+*to learn github*  
+**hello world!**
+# MarkDown  
+## 定义  
+轻量级标记语言  
+## 优点  
+- 纯文本内容，兼容所有的文本编辑器与文字出路软件  
+- 可以放到版本管理系统中，最总历史变更  
+- 轻松的导出HTML，PDF和本身的.md文件  
+- 简洁高效，可读直观，学习成本低  
+- 专注自己的文字内容而不是排版样式，安心写作  
+## 用途  
+1. IT人士：写日志，技术文稿，记录代码段，撰写文档  
+2. 科研人员/学生：撰写科技论文，记笔记  
+3. 求职者：制作简历  
+4. *其他*...  
+**MarkDown脑图：**<https://www.processon.com/mindmap/590eb9c9e4b0230b25bc7056>
 
-第一次编辑readme文件，倍感欣喜。虽然对github有点不理解，但还是会努力的。直到熟练运用github为止。
